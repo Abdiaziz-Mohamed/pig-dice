@@ -1,0 +1,45 @@
+.player-console {
+  display: none;
+}
+.jumbotron {
+   background-image: url(../images/pig.jpg);
+   background-repeat: no-repeat;
+   background-size: 100px;
+}
+body {
+      background-repeat: no-repeat;
+      background-image: url(../images/futa.jpg);
+      background-size: cover;
+
+}
+.col-md-6 {
+  color:white;
+}
+h1 {
+  text-align: center;
+  color: Gray;
+}
+#start {
+  color: white;
+  background-color: blue;
+}#new-game {
+  background-color: green;
+  color: red;
+  float: right;
+}
+#player1-roll {
+  background-color: red;
+  color: blue;
+}
+#player2-roll {
+  background-color: red;
+  color: yellow;
+}
+#player1-hold {
+  background-color: red;
+  color: black;
+}
+#player2-hold {
+  background-color: red;
+  color: pink;
+}
